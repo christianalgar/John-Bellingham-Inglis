@@ -1,0 +1,13 @@
+{
+  "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in christianalgar/John-Bellingham-Inglis project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://christianalgar.github.io/John-Bellingham-Inglis/manifests/manifest.json",
+    "label" : "John Bellingham Inglis's 'peculiar habit'"
+  } ]
+}
