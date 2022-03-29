@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1608,
+    "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisC57c7front2/canvas/",
+    "label" : {
+      "none" : [ "InglisC57c7front2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisC57c7front2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisC57c7front2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 51,
+              "height" : 70
+            }, {
+              "width" : 101,
+              "height" : 140
+            }, {
+              "width" : 201,
+              "height" : 280
+            }, {
+              "width" : 402,
+              "height" : 559
+            }, {
+              "width" : 804,
+              "height" : 1117
+            }, {
+              "width" : 1608,
+              "height" : 2233
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1608,
+            "@id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisC57c7front2",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2233
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1608,
+          "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisC57c7front2/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2233
+        },
+        "target" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisC57c7front2/canvas/"
+      } ]
+    } ],
+    "height" : 2233
+  }, {
     "width" : 1721,
     "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisC57c7front1/canvas/",
     "label" : {
