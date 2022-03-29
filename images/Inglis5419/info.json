@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 88,
+    "height" : 122
+  }, {
+    "width" : 175,
+    "height" : 244
+  }, {
+    "width" : 350,
+    "height" : 488
+  }, {
+    "width" : 699,
+    "height" : 975
+  }, {
+    "width" : 1397,
+    "height" : 1949
+  }, {
+    "width" : 2794,
+    "height" : 3898
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2794,
+  "@id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/Inglis5419",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3898
+}
