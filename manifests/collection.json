@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://christianalgar.github.io/John-Bellingham-Inglis/manifests/manifesta.json",
     "label" : ""
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://christianalgar.github.io/John-Bellingham-Inglis/manifests/manifestjbi.json",
+    "label" : "John Bellingham Inglis's 'peculiar habit'"
   } ]
 }
