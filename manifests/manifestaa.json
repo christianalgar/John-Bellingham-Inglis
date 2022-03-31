@@ -285,15 +285,6 @@
 					"related": ""
 				},
 				{
-					"@id": "http://8f2a56a4-94d4-49ba-9c5b-232a6d949314",
-					"@type": "sc:Canvas",
-					"label": "Empty canvas",
-					"height": 0,
-					"width": 0,
-					"images": [],
-					"related": ""
-				},
-				{
 					"@id": "http://0dc6f369-3664-4d5a-97f9-657204829e4d",
 					"@type": "sc:Canvas",
 					"label": "InglisIA10955",
@@ -380,16 +371,7 @@
 					],
 					"related": ""
 				},
-				{
-					"@id": "http://1325c20c-8950-4449-98f8-1c5d9ff2fec6",
-					"@type": "sc:Canvas",
-					"label": "Empty canvas",
-					"height": 0,
-					"width": 0,
-					"images": [],
-					"related": ""
-				}
-			]
+							]
 		}
 	],
 	"structures": [],
