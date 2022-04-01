@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4608,
+    "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisNewberry1/canvas/",
+    "label" : {
+      "none" : [ "InglisNewberry1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisNewberry1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisNewberry1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 144,
+              "height" : 72
+            }, {
+              "width" : 288,
+              "height" : 144
+            }, {
+              "width" : 576,
+              "height" : 288
+            }, {
+              "width" : 1152,
+              "height" : 576
+            }, {
+              "width" : 2304,
+              "height" : 1152
+            }, {
+              "width" : 4608,
+              "height" : 2304
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4608,
+            "@id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisNewberry1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2304
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4608,
+          "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisNewberry1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2304
+        },
+        "target" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisNewberry1/canvas/"
+      } ]
+    } ],
+    "height" : 2304
+  }, {
     "width" : 3024,
     "id" : "https://christianalgar.github.io/John-Bellingham-Inglis/images/InglisIA10955/canvas/",
     "label" : {
